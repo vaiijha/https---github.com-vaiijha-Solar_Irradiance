@@ -1,5 +1,5 @@
 This project was carried out as an academic project during my 3rd year at undergraduate studies at RVCE.
-
+TEST
 #Main Objectives:
 
 1) Study, review & implement ML models for weather forecasting and work on improving its efficiency. The ML models developed as part of this were: VAR, ARIMA & Prophet.
