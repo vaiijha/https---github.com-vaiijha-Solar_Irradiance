@@ -1,4 +1,4 @@
-This project was carried out as an academic project during my 3rd year at undergraduate studies at RVCE.
+This project was carried out as an academic project during my 3rd year at undergraduate studies at RVCE, Bengaluru.
 
 #Main Objectives:
 
